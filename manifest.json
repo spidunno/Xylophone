@@ -1,0 +1,8 @@
+{
+  "name": "Xylophone - Virtual Xylophone: Use the keyboard or click/touch",
+  "short_name": "Xylophone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/index.js"
+}

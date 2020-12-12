@@ -1,0 +1,14 @@
+div.bars {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+  width: 100%;
+	padding: 1%;
+}
+div.bars * {
+	vertical-align: top;
+}
+
+body {
+	overflow: hidden;
+}
